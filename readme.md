@@ -66,6 +66,6 @@ Likitha K V
 
 Special thanks to the open-source image providers, icon libraries, and front-end inspirations that made this UI possible.
 
-
+Thank you for the contributions
 ---
 
